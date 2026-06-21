@@ -1,0 +1,29 @@
+00:00:00.878072 VirtualBox GUI VM Selector Window 7.2.2 r170484 win.amd64 (Sep 10 2025 19:56:01) release log
+00:00:00.878074 Log opened 2025-10-09T12:49:13.656905100Z
+00:00:00.878074 Build Type: release
+00:00:00.878075 OS Product: Windows 11
+00:00:00.878156 OS Release: 10.0.26100.6584
+00:00:00.878157 OS Service Pack: 
+00:00:00.886250 DMI Product Name: ASUS EXPERTBOOK B1400CEAEY_B1400CEAE
+00:00:00.888650 DMI Product Version: 1.0       
+00:00:00.888662 Firmware type: UEFI
+00:00:00.889101 Secure Boot: Disabled
+00:00:00.889109 Host RAM: 16075MB (15.6GB) total, 11295MB (11.0GB) available
+00:00:00.889114 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.889115 Process ID: 12064
+00:00:00.889115 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.889115 Windows Features:
+00:00:00.889116   Core Isolation (Memory Integrity): Not supported
+00:00:00.889222 Qt version: 6.8.0
+00:00:00.889720 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.892188 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.892200 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:09:37.255449 GUI: UIMediumEnumerator: Medium with key={{0ef2a725-6731-462e-a3b4-9baf14bc595f}} created
+00:09:37.452087 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:09:56.029163 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:10:00.122860 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:06.263338 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:10.301682 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:12:40.274699 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:46:16.827891 GUI: UICommon: Commit data request...
+00:46:16.859722 GUI: UICommon: Handling aboutToQuit request..

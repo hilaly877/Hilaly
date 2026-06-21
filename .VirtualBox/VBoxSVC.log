@@ -1,0 +1,216 @@
+00:00:00.003412 main     VirtualBox COM Server 7.2.2 r170484 win.amd64 (Sep 10 2025 19:56:01) release log
+00:00:00.003416 main     Log opened 2025-10-09T12:49:13.305495800Z
+00:00:00.003416 main     Build Type: release
+00:00:00.003419 main     OS Product: Windows 11
+00:00:00.003523 main     OS Release: 10.0.26100.6584
+00:00:00.003523 main     OS Service Pack: 
+00:00:00.026089 main     DMI Product Name: ASUS EXPERTBOOK B1400CEAEY_B1400CEAE
+00:00:00.035962 main     DMI Product Version: 1.0       
+00:00:00.035974 main     Firmware type: UEFI
+00:00:00.036808 main     Secure Boot: Disabled
+00:00:00.036818 main     Host RAM: 16075MB (15.6GB) total, 11302MB (11.0GB) available
+00:00:00.036821 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.036822 main     Process ID: 13244
+00:00:00.036822 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.036824 main     Windows Features:
+00:00:00.036824 main       Core Isolation (Memory Integrity): Not supported
+00:00:00.150602          VirtualBox: object creation starts
+00:00:00.150775          Home directory: 'C:\Users\Hilaly\.VirtualBox'
+00:00:00.150878          Installed Drivers:
+00:00:00.156138            C:\WINDOWS\system32\DRIVERS\VBoxSup.sys (Version: 7.2.2.20484)
+00:00:00.156406            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.2.2.20484)
+00:00:00.156596            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.2.2.20484)
+00:00:00.156778            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.2.2.20484)
+00:00:00.158141          usbLibGetDevices: Starting USB device enumeration
+00:00:00.180933          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:00:00.180973          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:00:00.183521          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.185372          usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:00.185399          USB: Unknown USB device detected (idVendor: 0x04f3, idProduct: 0x0c6c)
+00:00:00.185447          USB: Unknown USB device detected (idVendor: 0x13d3, idProduct: 0x56a2)
+00:00:00.185456          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0026)
+00:00:00.206803          HostDnsMonitor: initializing
+00:00:00.211880          HostDnsMonitor: updating information
+00:00:00.211897          HostDnsMonitor: old information
+00:00:00.211897            no server entries
+00:00:00.211898            no domain set
+00:00:00.211898            no search string entries
+00:00:00.211898          HostDnsMonitor: new information
+00:00:00.211898            server 1: 172.16.1.21
+00:00:00.211899            server 2: 172.16.1.31
+00:00:00.211899            domain: kln.ac.lk
+00:00:00.211899            no search string entries
+00:00:00.245285          VD: VDInit finished with VINF_SUCCESS
+00:00:00.247045          VirtualBox: object created
+00:00:00.801549          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.804081          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:00:00.804343          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.805659          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:00:00.805815          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.807671          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:00:01.149179          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:01.151996          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:00:02.693146          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:02.701155          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:00:48.227378          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:48.230418          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:00:48.231785          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:48.233698          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:01:04.848243 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:01:04.888725 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:01:04.888937 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:01:04.889071 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+00:01:04.889199 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:01:04.889576 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:03:22.961630 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:03:23.009816 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:03:23.009886 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:03:23.009932 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+00:03:23.009976 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:03:23.010306 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:03:24.031329 USBPROXY usbLibGetDevices: Starting USB device enumeration
+00:03:24.080030 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 5
+00:03:24.080092 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 7
+00:03:24.080137 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 9
+00:03:24.080178 USBPROXY Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&22224d6e&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:03:24.080324 USBPROXY usbLibGetDevices: Found 4 USB devices, 0 captured
+00:09:02.114131 dns-monitor HostDnsMonitor: updating information
+00:09:02.114176 dns-monitor HostDnsMonitor: unchanged
+00:09:36.713303 createBase Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:36.719454 createBase Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:09:36.724211          Platform architecture set to 'x86'
+00:09:36.724439          Platform architecture set to 'x86'
+00:09:36.724455          Platform architecture set to 'x86'
+00:09:36.725159          Platform architecture set to 'x86'
+00:09:36.726374          Saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox" with version "1.19-windows"
+00:09:36.727960          Finished saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox"
+00:09:36.728105          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:36.729541          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:09:36.731868          Platform architecture set to 'x86'
+00:09:36.733487          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:36.735223          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:09:36.735709          Saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox" with version "1.19-windows"
+00:09:36.737374          Finished saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox"
+00:09:36.738419          Saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox" with version "1.19-windows"
+00:09:36.740561          Finished saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox"
+00:09:36.741111          Saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox" with version "1.19-windows"
+00:09:36.742688          Finished saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox"
+00:09:36.745470          UnattendedInstaller::initInstaller: UnattendedInstaller::savePassedData(): 
+00:09:36.779861          Platform architecture set to 'x86'
+00:09:36.780957          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:36.782758          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:09:36.782855          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:36.784217          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:09:36.784419          Saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox" with version "1.19-windows"
+00:09:36.785767          Finished saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox"
+00:09:36.887198          Launched VM: 3701644960 pid: 8068 (0x1f84) frontend: GUI/Qt name: Ubuntu 24.04
+00:09:36.936504          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:37.014038          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:37.346283          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:37.348022          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:09:43.973412          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:44.015983          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:09:44.034452          Platform architecture set to 'x86'
+00:09:44.476549          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:44.480110          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:09:50.784250          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:09:55.318396          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:55.320054          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:09:55.320587          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:55.322188          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:09:55.322899          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:55.324447          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:09:55.324864          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:55.326205          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:09:55.326702          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:09:55.328037          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
+00:09:55.462403          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:09:55.468212          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:09:55.472412          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:55.477662          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:09:55.479303          Saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox" with version "1.19-windows"
+00:09:55.481020          Finished saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox"
+00:09:55.492902          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:09:55.499619          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:55.503244          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:09:56.737658          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:09:56.738030          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:09:56.738571          HostDnsMonitorProxy::GetDomainName: kln.ac.lk
+00:09:56.738607          HostDnsMonitorProxy::GetNameServers:
+00:09:56.738611            name server 1: 172.16.1.21
+00:09:56.738614            name server 2: 172.16.1.31
+00:09:56.738641          HostDnsMonitorProxy::GetSearchStrings:
+00:09:56.738645            no search string entries
+00:09:56.755068          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:09:56.775617          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:56.811296          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:09:59.545980          Saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox" with version "1.19-windows"
+00:09:59.586690          Finished saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox"
+00:09:59.593537          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:09:59.610878          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:11:31.110902          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:11:31.113705          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:11:31.125826          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Paused)}, preserve=false aResultDetail=0
+00:11:33.507658          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:11:33.522529          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:11:33.533843          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:12:05.702119          Saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox" with version "1.19-windows"
+00:12:05.704664          Finished saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox"
+00:12:05.718278          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:12:05.736560          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:12:05.754648          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:12:09.762711          Saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox" with version "1.19-windows"
+00:12:09.765896          Finished saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox"
+00:12:09.775247          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:12:09.788366          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:12:32.212787          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:12:32.220336          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:12:32.236687          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Paused)}, preserve=false aResultDetail=0
+00:12:39.686294          Saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox" with version "1.19-windows"
+00:12:39.730132          Finished saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox"
+00:12:39.760017          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:12:39.764518          Saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox" with version "1.19-windows"
+00:12:39.766853          Finished saving settings file "C:\Users\Hilaly\VirtualBox VMs\Ubuntu 24.04\Ubuntu 24.04.vbox"
+00:12:39.779372          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:12:39.832091          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:12:39.838513          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:12:40.442101          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:12:41.309000          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:12:41.330348          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:12:44.315026          Launched VM: 3704318880 pid: 12532 (0x30f4) frontend: GUI/Qt name: Ubuntu 24.04
+00:12:44.350670          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:12:44.366533          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:12:50.358526          Platform architecture set to 'x86'
+00:12:50.612051          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:12:50.615549          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:12:57.057812          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:13:01.827730          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:13:01.832514          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:01.835191          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:13:01.850695          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:13:02.515949          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:13:02.516301          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:13:02.516726          HostDnsMonitorProxy::GetDomainName: kln.ac.lk
+00:13:02.516756          HostDnsMonitorProxy::GetNameServers:
+00:13:02.516760            name server 1: 172.16.1.21
+00:13:02.516763            name server 2: 172.16.1.31
+00:13:02.516786          HostDnsMonitorProxy::GetSearchStrings:
+00:13:02.516789            no search string entries
+00:13:02.534441          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={83cfdc66-4f20-4569-ad39-8722f7d472b3} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:13:02.561224          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:13:02.597498          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:27:56.110696 dns-monitor HostDnsMonitor: updating information
+00:27:56.111064 dns-monitor HostDnsMonitor: unchanged
+00:28:49.202670 dns-monitor HostDnsMonitor: updating information
+00:28:49.202707 dns-monitor HostDnsMonitor: unchanged
+00:29:50.659932 dns-monitor HostDnsMonitor: updating information
+00:29:50.660036 dns-monitor HostDnsMonitor: unchanged
+00:30:50.064796 dns-monitor HostDnsMonitor: updating information
+00:30:50.064817 dns-monitor HostDnsMonitor: unchanged
+00:31:58.251621 dns-monitor HostDnsMonitor: updating information
+00:31:58.251664 dns-monitor HostDnsMonitor: unchanged
+00:46:16.295035 main     WM_QUERYENDSESSION: critical (0x40000000)
+00:46:16.295705 main     VBoxSvc has active connections: bActivity = false, lock count = 2
+00:46:16.304699 main     WM_ENDSESSION: critical (TRUE/0x40000000)
+00:46:16.305281          Saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:46:16.308698          Finished saving settings file "C:\Users\Hilaly\.VirtualBox\VirtualBox.xml"
